@@ -9,20 +9,17 @@ Sensorless-Control/
 ├── README.md
 ├── lab1/
 │   ├── README.md
-│   ├── report.pdf
-│   ├── artifacts/
+│   ├── report.pdf   
 │   ├── lab_1_screenshots/
 │   └── matlab/
 ├── lab2/
 │   ├── README.md
 │   ├── report.pdf
-│   ├── artifacts/
 │   ├── lab_2_screenshots/
 │   └── matlab/
 └── lab3/
     ├── README.md
     ├── report.pdf
-    ├── artifacts/
     ├── lab_3_screenshots/
     └── matlab/
 ```
